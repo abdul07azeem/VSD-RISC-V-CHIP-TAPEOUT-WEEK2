@@ -11,7 +11,7 @@ The journey is organized into **two sub-branches**:
 At the end of the week, my goal is to **bridge these two branches together** — connecting theoretical understanding with **real-world semiconductor concepts** in an even more **refined, creative, yet professional way** 🌐💡.
 
 
-## **WEEK 2 STRUCTURE:**
+## 📆**WEEK 2 STRUCTURE:**
 
 <pre>
 VSD-RISC-V-CHIP-TAPEOUT-WEEK2/
