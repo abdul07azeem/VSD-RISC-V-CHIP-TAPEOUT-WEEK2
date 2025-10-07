@@ -32,16 +32,21 @@ VSD-RISC-V-CHIP-TAPEOUT-WEEK2/
 │   ├── ⚙️03_Yosys_Synthesis/  
 │   │   ├── 📂netlists/  
 │   │   └── 📂logs/  
-│   └── 📘README.md   (summary of lab experiments)  
+│   └── 📘README.md(summary of lab experiments)  
 │
 ├── 📑 Docs/  
 │   ├──🗒️ Week2_Summary.md  
 │   ├──💡 Learnings.md  
-│   └── 🚀Future_Work.md  
-│
-└── 📌README.md   (main intro to the repository, links to Theory & Labs)/
+│     
+└── 📌README.md(main intro to the repository, links to Theory & Labs)/
 </pre>
 
-[Explore Theory here ➡](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Theory)
+----------------------------------------------------------------------------------------
+[📖 Explore Theory here ➡](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Theory)
 
-[Explore Labs Here ➡ ](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Labs) 
+[🧪 Explore Labs Here ➡ ](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Labs) 
+
+
+## WEEK 2 Summary:
+## WEEK 2 Learnings:
+
