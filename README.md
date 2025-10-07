@@ -42,11 +42,23 @@ VSD-RISC-V-CHIP-TAPEOUT-WEEK2/
 </pre>
 
 ----------------------------------------------------------------------------------------
-[📖 Explore Theory here ➡](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Theory)
 
-[🧪 Explore Labs Here ➡ ](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Labs) 
+## 📖 Theory - Fundamentals of SoC
+[ Explore Theory here ➡](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Theory)
+
+## 🧪 Labs - VSDBabySoC Functional Modelling
+
+[ Explore Labs Here ➡ ](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Labs) 
 
 
-## WEEK 2 Summary:
-## WEEK 2 Learnings:
+## 📋 WEEK 2 Summary 
+## 🎯 WEEK 2 Learnings 
+## 📖 References
 
+Fundamentals of SoC Design Notes
+
+VSDBabySoC Project
+
+## ✒️Author
+
+Abdul Azeem
