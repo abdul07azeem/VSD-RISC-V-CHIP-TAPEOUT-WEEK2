@@ -44,4 +44,4 @@ VSD-RISC-V-CHIP-TAPEOUT-WEEK2/
 
 [Explore Theory here ➡](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Theory)
 
-![Explore the Theory]() 
+[Explore Labs Here ➡ ](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/tree/VSDBabySoC-Labs) 
