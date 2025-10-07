@@ -67,5 +67,5 @@ It performs computing, communication, and control functions within one compact u
 5. **Difficult Debugging and Testing** – All components are tightly packed, making fault detection hard.
 
 ---
-
+![](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/blob/24472eaf8d6f094369774e54053851b67ecd8639/Screenshot%20(14).png)
 
