@@ -42,6 +42,10 @@ It performs computing, communication, and control functions within one compact u
     Perform specialized tasks like AI inference, encryption, or signal processing.
 
 ---
+## Architecture of SoC
+
+![](https://github.com/abdul07azeem/VSD-RISC-V-CHIP-TAPEOUT-WEEK2/blob/53de43f7576240ebaaff119de8b0ceb194e4b667/soc%20%20architecture%201.jpg)
+
 
 ## 🌟 **Advantages of SoC:**
 
