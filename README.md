@@ -20,8 +20,8 @@ VSD-RISC-V-CHIP-TAPEOUT-WEEK2/
 │   ├── 📝01_SoC_Introduction  
 │   ├── 🔌02_components of a SoC 
 │   ├── 🧩03_SoC_Integration  
-│   ├── 🌊04SoC Design Flow
-│   ├── 🧠04_VSDBabySoC 
+│   ├── 🌊04_SoC Design Flow
+│   ├── 🧠05_VSDBabySoC 
 │     
 ├── 🧪 Labs(README.md)/  
 │   ├── 📝01_Icarus_Verilog_Simulation/  
